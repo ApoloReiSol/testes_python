@@ -1,4 +1,4 @@
-# - caculo salarial
+# - Caculo Salarial
 
 salario = float(input("Digite seu salário:"))
 tempo_servico = float(input("informe o tempo de serviço"))
